@@ -6,5 +6,7 @@
 
 ### Clone or download the repo and open index.html file and enjoy the game...
 
+### (Link to game:)[https://shinchangame.000webhostapp.com/]
+
 ### Preview of the Game window:-
 ![Shinchan](image.png)
